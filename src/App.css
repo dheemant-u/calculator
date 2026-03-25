@@ -77,3 +77,23 @@ button:hover {
   margin-top: 15px;
   font-weight: bold;
 }
+
+/* LAB EXPERIMENTS ADDITIONAL STYLES */
+.result-box {
+  background: #f8fafc;
+  padding: 1rem;
+  border-radius: 8px;
+  margin-top: 1rem;
+  border-left: 4px solid #3b82f6;
+  text-align: left;
+}
+
+.result-box ul {
+  list-style: none;
+  padding: 0;
+}
+
+.result-box li {
+  padding: 0.25rem 0;
+  color: #4b5563;
+}
